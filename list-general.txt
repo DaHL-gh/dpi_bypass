@@ -1,3 +1,5 @@
+archlinux.org
+www.freeopenvpn.org
 googlevideo.com
 youtu.be
 youtube.com
